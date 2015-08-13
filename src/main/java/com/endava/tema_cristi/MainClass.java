@@ -7,8 +7,7 @@ import org.junit.Test;
  */
 public class MainClass {
 
-    @Test
     public void main(){
-        System.out.println("Hello Cristi");
+        System.out.println("Hello Dumitru");
     }
 }
